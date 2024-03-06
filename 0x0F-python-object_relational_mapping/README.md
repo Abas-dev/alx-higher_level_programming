@@ -1,1 +1,1 @@
-Readme for sql
+Learning python ORM
